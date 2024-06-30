@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning phython
 - 🌱 I’m currently learning phython
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 you can reach me on facebook or whatsapp
+- 📫 you can reach me on facebook,whatsapp or linkedin
 
 
 <!---
